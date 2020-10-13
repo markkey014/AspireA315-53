@@ -1,5 +1,5 @@
 # AspireA315-53 Vanilla OSX
-This repo hosts an EFI folder fthat can run macOS 10.15.6-Big Sur Beta 9
+This repo hosts an EFI folder that can run macOS 10.15.6-Big Sur Beta 9
 
 # Quick Specs
 - CPU : Intel Core i3-7020U
